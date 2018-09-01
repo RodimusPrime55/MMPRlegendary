@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+
+<legedititems>
+<deck template="hero" name="Mighty Morphin Black">
+
+<template>
+</template>
+
+<cards>
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\hip hop kido.png" zoom="4.0" imageOffsetX="-150" imageOffsetY="0" />
+<iconbg name="Power" value="STRENGTH" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="2" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="2+" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;STRENGTH&amp;gt;: You get +1 &amp;lt;ATTACK&amp;gt;"   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Black"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="STRENGTH" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Hip Hop Kido" subnameValue="Mighty Morphin Black"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="STRENGTH" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\Smooth talkin.png" zoom="4.0" imageOffsetX="-150" imageOffsetY="0" />
+<iconbg name="Power" value="INSTINCT" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="4" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="false">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Cordinate&amp;lt;r&amp;gt; &amp;lt;g&amp;gt; Draw a Card &amp;lt;g&amp;gt; &amp;lt;INSTINCT&amp;gt;&amp;lt;INSTINCT&amp;gt;: Draw an extra card from the bottom of the deck."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Black"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Smooth Talkin" subnameValue="Mighty Morphin Black"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_rare" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\Mastodon (1).png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<icon name="Second Power" value="NONE" />
+<text name="Cost" value="7" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="5+" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;THUNDERBOLTS&amp;gt; &amp;lt;THUNDERBOLTS&amp;gt;: You Get +2&amp;lt;ATTACK&amp;gt;"   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="1" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Black"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="NONE" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Mastodon!" subnameValue="Mighty Morphin Black"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="STRENGTH" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_uncommon" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\power axe.png" zoom="3.8" imageOffsetX="63" imageOffsetY="-5" />
+<iconbg name="Power" value="STRENGTH" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="5" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="false">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Artifact&amp;lt;r&amp;gt; &amp;lt;g&amp;gt; When you play a &amp;lt;STRENGTH&amp;gt;, You get +1&amp;lt;ATTACK&amp;gt; againts Villains and Henchmen or +2 &amp;lt;ATTACK&amp;gt; against the Mastermind"   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="3" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Black"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="STRENGTH" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Power Axe" subnameValue="Mighty Morphin Black"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="STRENGTH" />
+</style>
+</styles>
+</template>
+</card>
+
+</cards>
+
+</deck>
+
+
+
+<deck template="hero" name="Mighty Morphin Pink">
+
+<template>
+</template>
+
+<cards>
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\GymPink.png" zoom="4.2" imageOffsetX="-280" imageOffsetY="-20" />
+<iconbg name="Power" value="COVERT" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="2" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="2" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value=""   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Pink"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="COVERT" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Gymnastics Trainning" subnameValue="Mighty Morphin Pink"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="COVERT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\valley.png" zoom="3.8" imageOffsetX="-100" imageOffsetY="0" />
+<iconbg name="Power" value="INSTINCT" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="4" />
+<elementgroup name="Recruit" visible="true">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0+" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0+" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Cordinate &amp;lt;g&amp;gt; Versitile:&amp;lt;r&amp;gt;You Get +1 for each &amp;lt;THUNDERBOLTS&amp;gt; you played this turn."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Pink"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Valley Girl" subnameValue="Mighty Morphin Pink"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_rare" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\Pteradactyl (2).png" zoom="3.8" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<icon name="Second Power" value="NONE" />
+<text name="Cost" value="6" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="5" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;THUNDERBOLTS&amp;gt;&amp;lt;THUNDERBOLTS&amp;gt;: KO a villian and rescue a bystandard"   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="1" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Pink"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="NONE" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Pteradactyl!" subnameValue="Mighty Morphin Pink"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="RANGE" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_uncommon" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\power bow.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<iconbg name="Power" value="RANGE" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="4" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="false">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Artifact &amp;lt;g&amp;gt; &amp;lt;r&amp;gt;If you defeate two or more villians this turn, draw an extra card at the end of your turn"   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="3" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Pink"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="RANGE" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Power Bow" subnameValue="Mighty Morphin Pink"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="RANGE" />
+</style>
+</styles>
+</template>
+</card>
+
+</cards>
+
+</deck>
+
+
+
+<deck template="hero" name="Mighty Morphin Blue">
+
+<template>
+</template>
+
+<cards>
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\high IQ.png" zoom="3.99" imageOffsetX="-150" imageOffsetY="0" />
+<iconbg name="Power" value="TECH" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="2" />
+<elementgroup name="Recruit" visible="true">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="2" />
+</elementgroup>
+<elementgroup name="Attack" visible="false">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="Draw a card. &amp;lt;g&amp;gt; &amp;lt;TECH&amp;gt;:KO a card from your hand or discard pile."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="H" subnameValue="Mighty Morphin Blue"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="TECH" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="High I.Q." subnameValue="Mighty Morphin Blue"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="TECH" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\morphaniominal.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<iconbg name="Power" value="INSTINCT" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="3" />
+<elementgroup name="Recruit" visible="true">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0+" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0+" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Versitile 2 &amp;lt;g&amp;gt; &amp;lt;r&amp;gt;&amp;lt;THUNDERBOLTS&amp;gt;: You get +1 &amp;lt;ATTACK&amp;gt; or +1 &amp;lt;RECRUIT&amp;gt;"   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Blue"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Morphinominal!" subnameValue="Mighty Morphin Blue"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_rare" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\Triceratops (2).png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<icon name="Second Power" value="NONE" />
+<text name="Cost" value="8" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="false">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;THUNDERBOLTS&amp;gt;&amp;lt;THUNDERBOLTS&amp;gt;&amp;lt;THUNDERBOLTS&amp;gt;: You may search your deck for 3 &amp;lt;THUNDERBOLTS&amp;gt; and put them in your hand. Shuffle your deck afterwards."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="1" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Blue"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="NONE" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Triceratops!" subnameValue="Mighty Morphin Blue"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="TECH" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_uncommon" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\power lance.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<iconbg name="Power" value="TECH" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="5" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="false">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Artifact&amp;lt;r&amp;gt; &amp;lt;g&amp;gt; When you play &amp;lt;TECH&amp;gt;&amp;lt;TECH&amp;gt;&amp;lt;TECH&amp;gt; you may search your deck for any &amp;lt;THUNDERBOLTS&amp;gt; with a &amp;lt;COST&amp;gt; of 2 or less."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="3" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Blue"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="TECH" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Power Lance" subnameValue="Mighty Morphin Blue"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="TECH" />
+</style>
+</styles>
+</template>
+</card>
+
+</cards>
+
+</deck>
+
+
+
+<deck template="hero" name="Mighty Morphin Yellow">
+
+<template>
+</template>
+
+<cards>
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\Tai chi.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<iconbg name="Power" value="INSTINCT" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="2" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="2+" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Cordinate&amp;lt;r&amp;gt; &amp;lt;g&amp;gt; If this is the first card played this turn, you get +1 &amp;lt;ATTACK&amp;gt;"   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Yellow"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Tai chi" subnameValue="Mighty Morphin Yellow"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\Billyinterp (1).png" zoom="3.9" imageOffsetX="-100" imageOffsetY="1" />
+<iconbg name="Power" value="COVERT" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="3" />
+<elementgroup name="Recruit" visible="true">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="2+" />
+</elementgroup>
+<elementgroup name="Attack" visible="false">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Cordinate&amp;lt;r&amp;gt; &amp;lt;g&amp;gt; &amp;lt;TECH&amp;gt;: You get +2 &amp;lt;RECRUIT&amp;gt; &amp;lt;g&amp;gt; "   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Yellow"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="COVERT" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Billy&amp;apos;s Interpreter" subnameValue="Mighty Morphin Yellow"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="COVERT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_rare" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\Sabertoothtiger.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<icon name="Second Power" value="NONE" />
+<text name="Cost" value="7" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="5+" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;THUNDERBOLTS&amp;gt;&amp;lt;THUNDERBOLTS&amp;gt;:You get +2 &amp;lt;ATTACK&amp;gt;"   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="1" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Yellow"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="NONE" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Saber-tooth Tiger!" subnameValue="Mighty Morphin Yellow"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="INSTINCT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_uncommon" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\power Daggers (1).png" zoom="4.0" imageOffsetX="30" imageOffsetY="-50" />
+<iconbg name="Power" value="INSTINCT" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="4" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="false">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Artifact&amp;lt;r&amp;gt; &amp;lt;g&amp;gt; You get +2&amp;lt;ATTACK&amp;gt;"   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="3" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Yellow"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Power Daggers" subnameValue="Mighty Morphin Yellow"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+</styles>
+</template>
+</card>
+
+</cards>
+
+</deck>
+
+
+
+<deck template="hero" name="Mighty  Morphin Red">
+
+<template>
+</template>
+
+<cards>
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\Martialartist.png" zoom="4.0" imageOffsetX="-50" imageOffsetY="0" />
+<iconbg name="Power" value="STRENGTH" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="3" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="3" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value=""   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty  Morphin Red"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="STRENGTH" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Martial Artist" subnameValue="Mighty  Morphin Red"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="STRENGTH" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\leadership.png" zoom="4.0" imageOffsetX="-200" imageOffsetY="0" />
+<iconbg name="Power" value="COVERT" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="3" />
+<elementgroup name="Recruit" visible="true">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0+" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0+" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Versatile 2&amp;lt;r&amp;gt; &amp;lt;g&amp;gt; You get +1 for each other different &amp;lt;THUNDERBOLTS&amp;gt; played this turn."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty  Morphin Red"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="COVERT" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Leader" subnameValue="Mighty  Morphin Red"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="COVERT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_rare" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\tyrannosarus.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<icon name="Second Power" value="NONE" />
+<text name="Cost" value="8" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="7" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value=""   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="1" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty  Morphin Red"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="NONE" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Tyrannosaurus!" subnameValue="Mighty  Morphin Red"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="COVERT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_uncommon" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\power sword.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<iconbg name="Power" value="NONE" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="5" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="false">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Artifact&amp;lt;r&amp;gt; &amp;lt;g&amp;gt; If you played 3 or more &amp;lt;THUNDERBOLTS&amp;gt; this turn, you get +2 &amp;lt;ATTACK&amp;gt; when fighting a villain or +3 &amp;lt;ATTACK&amp;gt; when fighting the Mastermind."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="3" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty  Morphin Red"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="NONE" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Power Sword" subnameValue="Mighty  Morphin Red"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="NONE" />
+</style>
+</styles>
+</template>
+</card>
+
+</cards>
+
+</deck>
+
+
+
+<deck template="hero" name="Mighty Morphin Green">
+
+<template>
+</template>
+
+<cards>
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\go green.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<iconbg name="Power" value="STRENGTH" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="3" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="3" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value=""   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Green"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="STRENGTH" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="GO! GREEN RANGER!" subnameValue="Mighty Morphin Green"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="STRENGTH" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\once evil.png" zoom="4.0" imageOffsetX="-150" imageOffsetY="0" />
+<iconbg name="Power" value="COVERT" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="3" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="3" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="Choose a villian. That villian gets -2 &amp;lt;ATTACK&amp;gt; this turn."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Green"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="COVERT" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Once Evil" subnameValue="Mighty Morphin Green"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="COVERT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_rare" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\Dragonzord.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<icon name="Second Power" value="NONE" />
+<text name="Cost" value="8" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="7" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="If you defeat the Mastermind this turn, put this card at the bottom of your deck instead of discarding it."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="1" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Green"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="NONE" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Dragonzord!" subnameValue="Mighty Morphin Green"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="STRENGTH" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_uncommon" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\dragondagger.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<iconbg name="Power" value="STRENGTH" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="5" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="false">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Artifact&amp;lt;r&amp;gt; &amp;lt;g&amp;gt; Once per turn you may swap the top card of your deck with the bottem card of your deck."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="3" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin Green"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="STRENGTH" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Dragon Dagger" subnameValue="Mighty Morphin Green"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="STRENGTH" />
+</style>
+</styles>
+</template>
+</card>
+
+</cards>
+
+</deck>
+
+
+
+<deck template="hero" name="Mighty Morphin White">
+
+<template>
+</template>
+
+<cards>
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\new white.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<iconbg name="Power" value="INSTINCT" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="2" />
+<elementgroup name="Recruit" visible="true">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="2+" />
+</elementgroup>
+<elementgroup name="Attack" visible="false">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Coordinate&amp;lt;r&amp;gt; &amp;lt;g&amp;gt; &amp;lt;THUNDERBOLTS&amp;gt;: You get +1 &amp;lt;RECRUIT&amp;gt; &amp;lt;g&amp;gt; "   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin White"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="White Light" subnameValue="Mighty Morphin White"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_common" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\white light.png" zoom="4.0" imageOffsetX="-100" imageOffsetY="0" />
+<iconbg name="Power" value="INSTINCT" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="3" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="2" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="Villians get -1 &amp;lt;ATTACK&amp;gt; if you KO a card from your hand or discard pile."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="5" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin White"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Tiger Power" subnameValue="Mighty Morphin White"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_rare" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\Tigerzord.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<icon name="Second Power" value="NONE" />
+<text name="Cost" value="7" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="true">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="6" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;THUNDERBOLTS&amp;gt;&amp;lt;THUNDERBOLTS&amp;gt;: Rescue 3 bystandards."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="1" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin White"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="NONE" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Tigerzord!" subnameValue="Mighty Morphin White"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power" value="INSTINCT" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="hero_uncommon" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\Saba.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<iconbg name="Power" value="INSTINCT" />
+<iconbg name="Second Power" value="NONE" />
+<image name="back_text" path="back_text.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="back_cost" path="back_cost.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<text name="Cost" value="5" />
+<elementgroup name="Recruit" visible="false">
+<icon name="Recruit Icon" value="RECRUIT" />
+<text name="Recruit Value" value="0" />
+</elementgroup>
+<elementgroup name="Attack" visible="false">
+<icon name="Attack Icon" value="ATTACK" />
+<text name="Attack Value" value="0" />
+</elementgroup>
+<elementgroup name="Piercing" visible="false">
+<icon name="Piercing Icon" value="PIERCING" />
+<text name="Piercing Value" value="0" />
+</elementgroup>
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Artifact&amp;lt;r&amp;gt; &amp;lt;g&amp;gt; You may KO as many non grey heros as you like. If you do, you get +2 attack for each one KOd."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="3" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Mighty Morphin White"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Saba" subnameValue="Mighty Morphin White"  textsize="48" subnamesize="34" />
+<icon name="Team" value="THUNDERBOLTS" />
+<icon name="Power Overlay" value="INSTINCT" />
+</style>
+</styles>
+</template>
+</card>
+
+</cards>
+
+</deck>
+
+
+
+<deck template="henchmen" name="Putty Patrol">
+
+<template>
+</template>
+
+<cards>
+<card template="henchmen" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\putties2.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="text_overlay" path="back_underlay.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<icon name="Victory" value="VICTORY" />
+<text name="Victory Value" value="1" />
+<icon name="Villain Team" value="NONE" />
+<icon name="Attack" value="ATTACK" />
+<text name="Attack Value" value="3*" />
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Swarm"   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="10" />
+<styles>
+<style name="Base Set">
+<cardname name="Card Name" value="Putty Patrol" subnameValue="Henchman Villain"  textsize="48" subnamesize="34" />
+</style>
+<style name="Villains">
+<cardname name="Card Name" value="Putty Patrol" subnameValue="Henchman Villain"  textsize="48" subnamesize="34" />
+</style>
+</styles>
+</template>
+</card>
+
+</cards>
+
+</deck>
+
+
+
+<deck template="villain" name="Rita's Minions">
+
+<template>
+</template>
+
+<cards>
+<card template="villain" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\finster.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="text_overlay" path="back_underlay.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<icon name="Victory" value="VICTORY" />
+<text name="Victory Value" value="2" />
+<icon name="Villain Team" value="NONE" />
+<icon name="Attack" value="ATTACK" />
+<text name="Attack Value" value="4+" />
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Ambush:&amp;lt;r&amp;gt;Reveal cards from the villian deck until a Henchmen appears. They enter the city. Shuffle the other cards back into the deck. This card gets +1 &amp;lt;ATTACK&amp;gt; for each Putty Patrol in the city."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="2" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Rita&amp;apos;s Minions"  textsize="48" subnamesize="34" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Finster" subnameValue="Rita&amp;apos;s Minions"  textsize="48" subnamesize="34" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="villain" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\pudgypig.png" zoom="5.0" imageOffsetX="-100" imageOffsetY="0" />
+<image name="text_overlay" path="back_underlay.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<icon name="Victory" value="VICTORY" />
+<text name="Victory Value" value="3" />
+<icon name="Villain Team" value="NONE" />
+<icon name="Attack" value="ATTACK" />
+<text name="Attack Value" value="5" />
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Jammed:Artifact&amp;lt;r&amp;gt; &amp;lt;g&amp;gt;  &amp;lt;g&amp;gt; &amp;lt;k&amp;gt;Escape:&amp;lt;r&amp;gt;All players KO a Artifact in play."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="2" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Rita&amp;apos;s Minions"  textsize="48" subnamesize="34" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Pudgy Pig" subnameValue="Rita&amp;apos;s Minions"  textsize="48" subnamesize="34" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="villain" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\Goldar.png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="text_overlay" path="back_underlay.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<icon name="Victory" value="VICTORY" />
+<text name="Victory Value" value="4" />
+<icon name="Villain Team" value="NONE" />
+<icon name="Attack" value="ATTACK" />
+<text name="Attack Value" value="7" />
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Ambush:&amp;lt;r&amp;gt; Capture a Bystander"   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="2" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Rita&amp;apos;s Minions"  textsize="48" subnamesize="34" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Goldar" subnameValue="Rita&amp;apos;s Minions"  textsize="48" subnamesize="34" />
+</style>
+</styles>
+</template>
+</card>
+
+<card template="villain" style="Base Set">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\eye guy (1).png" zoom="4.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="text_overlay" path="back_underlay.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<icon name="Victory" value="VICTORY" />
+<text name="Victory Value" value="3" />
+<icon name="Villain Team" value="NONE" />
+<icon name="Attack" value="ATTACK" />
+<text name="Attack Value" value="3+" />
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Ambush:&amp;lt;r&amp;gt; Capture a bystander for each villian in the city. This card gets +1 &amp;lt;ATTACK&amp;gt; for each bystander it has captured."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="2" />
+<styles>
+<style name="Villains">
+<cardname name="Card Name" value="Card Name" subnameValue="Rita&amp;apos;s Minions"  textsize="48" subnamesize="34" />
+</style>
+<style name="Base Set">
+<cardname name="Card Name" value="Eye Guy" subnameValue="Rita&amp;apos;s Minions"  textsize="48" subnamesize="34" />
+</style>
+</styles>
+</template>
+</card>
+
+</cards>
+
+</deck>
+
+
+
+<deck template="mastermind" name="Rita Repulsa">
+
+<template>
+</template>
+
+<cards>
+<card template="mastermind">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\rita.png" zoom="5.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="text_overlay" path="back_underlay.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<cardname name="Card Name" value="Rita Repulsa" subnameValue="Mastermind"  textsize="48" subnamesize="34" />
+<icon name="Victory" value="VICTORY" />
+<text name="Victory Value" value="6" />
+<icon name="Attack" value="ATTACK" />
+<text name="Attack Value" value="10" />
+<textarea name="Card Text" value="&amp;lt;k&amp;gt;Always Leads:&amp;lt;r&amp;gt; Rita&amp;apos;s Minnions &amp;lt;g&amp;gt; &amp;lt;k&amp;gt;Maaster Strike:&amp;lt;r&amp;gt; &amp;lt;k&amp;gt;Jammed:Cordinate&amp;lt;r&amp;gt; &amp;lt;g&amp;gt; All players discard 2 cards from there hand."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="1" />
+</template>
+</card>
+
+<card template="mastermind_tactic">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\rita.png" zoom="5.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="text_overlay" path="back_underlay.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<cardname name="Card Name" value="I have a headache!" subnameValue="Mastermind Tactic - Rita Repulsa"  textsize="48" subnamesize="34" />
+<icon name="Victory" value="VICTORY" />
+<text name="Victory Value" value="6" />
+<icon name="Attack" value="ATTACK" />
+<text name="Attack Value" value="10" />
+<textarea name="Card Text" value="When you draw your hand at the end of your turn, draw 3 extra cards."   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="1" />
+</template>
+</card>
+
+<card template="mastermind_tactic">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\rita.png" zoom="5.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="text_overlay" path="back_underlay.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<cardname name="Card Name" value="Make my Monster Grow!" subnameValue="Mastermind Tactic - Rita Repulsa"  textsize="48" subnamesize="34" />
+<icon name="Victory" value="VICTORY" />
+<text name="Victory Value" value="6" />
+<icon name="Attack" value="ATTACK" />
+<text name="Attack Value" value="10" />
+<textarea name="Card Text" value="Move the highest &amp;lt;ATTACK&amp;gt; villian to the streets. If there is no villian in the city, reveal cards from the villian deck until one appears. Move it to the streets then shuffle the rest back into the villian deck. This villian gets +3&amp;lt;ATTACK&amp;gt;"   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="1" />
+</template>
+</card>
+
+<card template="mastermind_tactic">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\rita.png" zoom="5.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="text_overlay" path="back_underlay.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<cardname name="Card Name" value="After 10,000 years I&amp;apos;m Free!" subnameValue="Mastermind Tactic - Rita Repulsa"  textsize="48" subnamesize="34" />
+<icon name="Victory" value="VICTORY" />
+<text name="Victory Value" value="6" />
+<icon name="Attack" value="ATTACK" />
+<text name="Attack Value" value="10" />
+<textarea name="Card Text" value="Each player puts a henchman from there Victory Point pile into the city starting with the player who defeated the Mastermind this turn. If they can not then gain a wound. "   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="1" />
+</template>
+</card>
+
+<card template="mastermind_tactic">
+<template>
+<bgimage name="Image" path="C:\Users\Stephymiley\Desktop\legendary Customs\power rangers\Black\rita.png" zoom="5.0" imageOffsetX="0" imageOffsetY="0" />
+<image name="text_overlay" path="back_underlay.png" zoom="1.0" imageOffsetX="0" imageOffsetY="0" />
+<cardname name="Card Name" value="You Medling Power Punks!" subnameValue="Mastermind Tactic - Rita Repulsa"  textsize="48" subnamesize="34" />
+<icon name="Victory" value="VICTORY" />
+<text name="Victory Value" value="6" />
+<icon name="Attack" value="ATTACK" />
+<text name="Attack Value" value="10" />
+<textarea name="Card Text" value="Each player reveals there hand and shuffles all &amp;lt;THUNDERBOLTS&amp;gt; into there deck then draws a card for each card shuffled in this way. "   textsize="34" textsizebold="34" />
+<property name="Number in Deck" value="1" />
+</template>
+</card>
+
+</cards>
+
+</deck>
+
+
+
+</legedititems>
+
+</xml>
